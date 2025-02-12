@@ -114,7 +114,7 @@ export default function Product() {
         <br />
         <br />
         <p>
-          <strong>Description</strong>
+          <strong>Details</strong>
         </p>
         <br />
         <div dangerouslySetInnerHTML={{__html: descriptionHtml}} />
